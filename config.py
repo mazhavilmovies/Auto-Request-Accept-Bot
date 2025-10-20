@@ -23,10 +23,7 @@ ABOUT_MSG = """
 ◧ ᴏᴡɴᴇʀ: <a href='https://t.me/OnlyNoco'>ᴏɴʟʏɴᴏᴄᴏ</a>
 ◧ ᴘᴏʀᴛғᴏʟɪᴏ: <a href='https://onlynoco.vercel.app'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 ◧ ʀᴇᴘᴏ: <a href='https://github.com/OnlyNoco/Auto-Request-Accept-Bot'>ɢɪᴛʜᴜʙ</a>
-◧ ʟɪʙs ~ 
-<a href='https://github.com/Mayuri-Chan/pyrofork'>ᴘʏʀᴏғᴏʀᴋ</a> • 
-<a href='https://www.python.org/'>ᴘʏᴛʜᴏɴ</a> • 
-<a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏᴅʙ</a>
+◧ ʟɪʙs ~ <a href='https://github.com/Mayuri-Chan/pyrofork'>ᴘʏʀᴏғᴏʀᴋ</a> • <a href='https://www.python.org/'>ᴘʏᴛʜᴏɴ</a> • <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏᴅʙ</a>
 
 ◧ ᴏᴜʀ sᴇʀᴠɪᴄᴇs ~
 ⊡ <a href='https://t.me/+O7PeEMZOAoMzYzVl'>ʜᴇɴᴛᴀɪ ᴄʀɪsᴘ</a>
