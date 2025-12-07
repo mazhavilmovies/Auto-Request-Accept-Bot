@@ -3,13 +3,13 @@ import base64
 import logging 
 from logging.handlers import RotatingFileHandler
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "0")
-API_ID = int(os.environ.get("API_ID", "26254064"))
-API_HASH = os.environ.get("API_HASH", "72541d6610ae7730e6135af9423b319c")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8195734162:AAEDqrvuIgVqnPqEJ4yiDcwtMUW9K8lM3mQ")
+API_ID = int(os.environ.get("API_ID", "21419016"))
+API_HASH = os.environ.get("API_HASH", "79198e1eb4cfd0f771a89d83b9144e7e")
 WORKER = int(os.environ.get("WORKER", "4"))
-OWNER_ID = int(os.environ.get("OWNER_ID", "5296584067"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "1933114137"))
 PORT = os.environ.get("PORT", "8080")
-DB_URL = os.environ.get("DB_URL", "#db url here")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://kentkouhali5l_db_user:gFvGsyASnQPu9rDZ@cluster0.m9xgtlr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DB_NAME", "JOINREQ")
 START_MSG = os.environ.get(
     "START_MSG",
@@ -20,7 +20,7 @@ START_MSG = os.environ.get(
 )
 ABOUT_MSG = """
 <b>›› ᴀʙᴏᴜᴛ ᴍᴇ:</b>
-◧ ᴏᴡɴᴇʀ: <a href='https://t.me/OnlyNoco'>ᴏɴʟʏɴᴏᴄᴏ</a>
+◧ ᴏᴡɴᴇʀ: <a href='https://t.me/George_sirr'>ᴏɴʟʏɴᴏᴄᴏ</a>
 ◧ ᴘᴏʀᴛғᴏʟɪᴏ: <a href='https://onlynoco.vercel.app'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 ◧ ʀᴇᴘᴏ: <a href='https://github.com/OnlyNoco/Auto-Request-Accept-Bot'>ɢɪᴛʜᴜʙ</a>
 ◧ ʟɪʙs ~ <a href='https://github.com/Mayuri-Chan/pyrofork'>ᴘʏʀᴏғᴏʀᴋ</a> • <a href='https://www.python.org/'>ᴘʏᴛʜᴏɴ</a> • <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏᴅʙ</a>
